@@ -1,5 +1,3 @@
-# exercicio01
-Aula CI/CD
 <h4 align="center">
 ⬇️ * # Exercicio01 # * ⬇️
 </h4>
@@ -19,7 +17,7 @@ Aula CI/CD
 
 
  
-![image](image.png)
+![image](![alt text](![alt text](image.png))
 
 
 A) No working dir, executar o comando:
@@ -33,17 +31,17 @@ A) No working dir, executar o comando:
 <h4>
 
 
-![image](image-1.png)
+![image](![alt text](![alt text](image-1.png))
 
 
 B) Adicionar o arquivo no staging e conferir o status:
 <h4> 
  R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git add .
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git add .
 </h4>
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 </h4> 
 <h4>
 </h4>
@@ -53,14 +51,14 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 
 
 
-![image](image-2.png)
+![image](![alt text](![alt text](image-2.png))
 
 
 C) Commitar o arquivo do staging com a descrição "git add example - arquivo.txt":
 <h4> 
 R:
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git commit -m "git add example - arquivo.txt" .
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git commit -m "git add example - arquivo.txt" .
 </h4>
 <h4>
 </h4>
@@ -69,7 +67,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git commit -
 <h4>
 
 
-![image](image-3.png)
+![image](![alt text](![alt text](image-3.png))
 
 
 D) Sobrescrever o conteúdo do arquivo.txt:
@@ -77,7 +75,7 @@ D) Sobrescrever o conteúdo do arquivo.txt:
 <h4> 
 R:
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 02 > arquivo.txt
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 02 > arquivo.txt
 </h4>
 <h4>
 </h4>
@@ -85,14 +83,14 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 02 > ar
 </h4>
 <h4>
 
-![image](image-4.png)
+![image](![alt text](![alt text](image-4.png))
 
 
 E) Verificar o diffing no arquivo:
 <h4> 
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 </h4>
 <h4>
 </h4>
@@ -102,7 +100,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 
 
 
-![image](image-5.png)
+![image](![alt text](![alt text](image-5.png))
 
 
 
@@ -110,10 +108,10 @@ F) Adicionar novamente o arquivo no staging e conferir o status:
 <h4>
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git add .
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git add .
 </h4>
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 </h4>
 <h4>
 </h4>
@@ -121,14 +119,14 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 </h4>
 <h4>
 
-![image](image-6.png)
+![image](![alt text](![alt text](image-6.png))
 
 
 G) Verificar o diffing no arquivo:
 <h4> 
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 </h4>
 <h4>
 </h4>
@@ -144,7 +142,7 @@ H) Sobrescrever o conteúdo do arquivo.txt:
 <h4>
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 03 > arquivo.txt
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 03 > arquivo.txt
 </h4>
 <h4>
 </h4>
@@ -153,14 +151,14 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 03 > ar
 <h4>
 
 
-![image](image-7.png)
+![image](![alt text](![alt text](image-7.png))
 
 
 I) Verificar o diffing no arquivo:
 <h4>
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 </h4>
 <h4>
 </h4>
@@ -170,17 +168,17 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 
 
 
-![image](image-8.png)
+![image](![alt text](![alt text](image-8.png))
 
 
 J) Fazer o restore do arquivo da área de staging e verificar o status:
 <h4>
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git restore arquivo.txt 
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git restore arquivo.txt 
 </h4>
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 </h4>
 <h4>
 </h4>
@@ -189,26 +187,26 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 <h4>
 
 
-![image](image-9.png)
+![image](![alt text](![alt text](image-9.png))
 
 
 K) Realizar o commit do arquivo e verificar o log:
 <h4>
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git commit -m "Primeiro Commit - Arquivo.txt"
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git commit -m "Primeiro Commit - Arquivo.txt"
 </h4>
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git log
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git log
 <h4>
 </h4>
 </h4>
 </h4>
 <h4>
 
-![image](image-10.png)
+![image](![alt text](![alt text](![alt text](image-10.png))
 
-![image](image-11.png)
+![image](![alt text](![alt text](![alt text](image-11.png))
 
 
 L) Adicionar um arquivo gitignore com o seguinte conteúdo:
@@ -216,7 +214,7 @@ L) Adicionar um arquivo gitignore com o seguinte conteúdo:
 <h4> 
 R: 
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ vi .gitignore
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ vi .gitignore
 </h4>
 <h4>
 </h4>
@@ -224,17 +222,17 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ vi .gitignor
 </h4>
 <h4>
 
-![image](image-12.png)
+![image]![alt text](![alt text](image-12.png))
 
 
 M) Criar um arquivo novo.txt e verificar o status:
 <h4> 
 R:
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo > novo.txt
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo > novo.txt
 </h4>
 <h4>
-andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo > git status
+@andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo > git status
 </h4>
 <h4>
 </h4>
@@ -242,4 +240,4 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo > git s
 </h4>
 <h4>
 
-![image](image-13.png)
+![image](![alt text](![alt text](image-13.png))
