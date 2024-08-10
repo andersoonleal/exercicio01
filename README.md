@@ -19,7 +19,7 @@ Aula CI/CD
 
 
  
-![image](https://github.com/user-attachments/assets/5755be24-1d9b-46f0-ad6b-4e6811ef8de0)
+![image](image.png)
 
 
 A) No working dir, executar o comando:
@@ -33,7 +33,7 @@ A) No working dir, executar o comando:
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/0b8b502e-3044-4db5-a18f-239a5d3d60ab)
+![image](image-1.png)
 
 
 B) Adicionar o arquivo no staging e conferir o status:
@@ -53,7 +53,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 
 
 
-![image](https://github.com/user-attachments/assets/536812c2-40e0-495e-be8e-3107b18132bc)
+![image](image-2.png)
 
 
 C) Commitar o arquivo do staging com a descrição "git add example - arquivo.txt":
@@ -69,7 +69,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git commit -
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/023c70d9-43d0-40cf-b75c-1d295c36e351)
+![image](image-3.png)
 
 
 D) Sobrescrever o conteúdo do arquivo.txt:
@@ -85,7 +85,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 02 > ar
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/7520a5c7-1e1d-46e9-b13b-734e45acb9ca)
+![image](image-4.png)
 
 
 E) Verificar o diffing no arquivo:
@@ -102,7 +102,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 
 
 
-![image](https://github.com/user-attachments/assets/7cd1ca6e-b3dc-4f56-b23a-9076917bdf56)
+![image](image-5.png)
 
 
 
@@ -121,7 +121,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/1c9e652b-5d55-4c59-918b-ce71bf8665f3)
+![image](image-6.png)
 
 
 G) Verificar o diffing no arquivo:
@@ -153,7 +153,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo 03 > ar
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/a56cfb03-c8ba-4b49-a542-4aa78858e9c4)
+![image](image-7.png)
 
 
 I) Verificar o diffing no arquivo:
@@ -170,7 +170,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git diff
 
 
 
-![image](https://github.com/user-attachments/assets/834d4bd9-cc1b-4a48-bc84-60b70edd8f15)
+![image](image-8.png)
 
 
 J) Fazer o restore do arquivo da área de staging e verificar o status:
@@ -189,7 +189,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git status
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/8138cc89-737b-467d-a53d-c6f605f9d971)
+![image](image-9.png)
 
 
 K) Realizar o commit do arquivo e verificar o log:
@@ -206,9 +206,9 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ git log
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/8dd378d3-d043-4ead-a0da-ae061b0ac8e1)
+![image](image-10.png)
 
-![image](https://github.com/user-attachments/assets/af3218c8-f95b-42a4-8d32-4e7a9415d028)
+![image](image-11.png)
 
 
 L) Adicionar um arquivo gitignore com o seguinte conteúdo:
@@ -224,7 +224,7 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ vi .gitignor
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/6442f7b5-94a4-4f30-8014-5fbbed7999ae)
+![image](image-12.png)
 
 
 M) Criar um arquivo novo.txt e verificar o status:
@@ -242,4 +242,4 @@ andersoonleal ➜ /workspaces/codespaces-blank/Exercicio01 (main) $ echo > git s
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/bdd99fb3-17e7-4c33-aaa7-dfcabe3e421e)
+![image](image-13.png)
