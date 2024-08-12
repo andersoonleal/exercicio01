@@ -17,7 +17,7 @@
 
 
  
-![image](![alt text](![alt text](image.png))
+![image](![alt text](![alt text](https://github.com/andersoonleal/exercicio01/issues/1#issue-2462042596))
 
 
 A) No working dir, executar o comando:
