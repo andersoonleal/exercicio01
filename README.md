@@ -17,7 +17,7 @@
 
 
  
-![image](![alt text](<img width="468" alt="Imagem1" src="https://github.com/user-attachments/assets/2302120e-d0be-447d-bd4e-36f2b287eca6">)
+<img width="468" alt="Imagem2" src="https://github.com/user-attachments/assets/21b507cf-df60-4a53-a620-1f242e40d6a3">
 
 
 A) No working dir, executar o comando:
