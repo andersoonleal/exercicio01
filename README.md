@@ -17,7 +17,7 @@
 
 
  
-![image](![alt text](https://github.com/andersoonleal/exercicio01/issues/1#issue-2462042596))
+![image](![alt text](<img width="468" alt="Imagem1" src="https://github.com/user-attachments/assets/2302120e-d0be-447d-bd4e-36f2b287eca6">)
 
 
 A) No working dir, executar o comando:
